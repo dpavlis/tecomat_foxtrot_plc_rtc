@@ -1,6 +1,6 @@
 # Tecomat PLC RTC Synchronization Tool
 
-A Python utility for setting the Real-Time Clock (RTC) on Tecomat FOXTROT PLC controllers using the EPSNET UDP protocol.
+A Python utility for setting the Real-Time Clock (RTC) on [Tecomat FOXTROT](https://www.tecomat.com/) PLC controllers using the EPSNET UDP protocol.
 
 ## Overview
 
